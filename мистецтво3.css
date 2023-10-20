@@ -1,0 +1,49 @@
+h1{
+    color:rgb(55, 22, 61);
+    text-align: center;
+    font-size: 150px;
+}
+p{
+    color:rgb(135, 105, 204);
+    font-size:150
+}
+img{
+    height: 400px;
+    width: 450px;
+    margin: 100px;
+}
+a{
+    text-decoration: none;
+    border-radius:  0px;
+    background-color: rgb(216, 156, 212);
+    height: 50px;
+    font-size: 50px;
+    margin: 30px;
+}
+header{ 
+    height: 30%;
+    background-color: rgb(224, 196, 255);
+    margin: 10px;
+}
+main{
+    display: flex;
+    justify-content: space-around;
+    height: 60%;
+    background-color: rgb(136, 117, 206);
+    margin: 10px;
+}
+footer{
+    height: 30%;
+    background-color: rgb(207, 103, 181);
+    margin: 10px;
+}
+nav{
+    display: flex;
+    justify-content: space-around
+}
+.fyfy{
+    color: aqua;
+}
+a:hover{
+    color: black;
+}
